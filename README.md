@@ -15,4 +15,4 @@
 <br><br>
 
 ## 💡 Contact
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:sojungkim318@gmail.com) [![Notion](https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white)](https://diamond-dibble-d92.notion.site/6f02684aa2764be28be28b97f06a7dee)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:sojungkim318@gmail.com)
